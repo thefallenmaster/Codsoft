@@ -6,7 +6,7 @@ This repository contains Python mini projects created for the CodSoft internship
 
 Build a task manager application that allows users to add, update, delete, and view daily tasks. The goal of this project is to practice list handling, menu-driven programming, and basic CRUD operations in Python.
 
-<video src="Sources/TaskManger.mp4" autoplay loop muted playsinline width="700"></video>
+![Task Manager Demo](Sources/TaskManger.gif)
 
 ## Task 2: Calculator
 
